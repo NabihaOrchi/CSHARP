@@ -20,5 +20,6 @@ namespace add
             Console.WriteLine("Sum of two Numbers: " + result.ToString());
             Console.ReadLine();
         }
+        
     }
 }
