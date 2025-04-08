@@ -5,3 +5,5 @@ int chairWidth;
 Console.WriteLine(tableWidth);
 Console.WriteLine(tableHeight);
 
+
+
