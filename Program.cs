@@ -4,4 +4,4 @@ int chairHeight;
 int chairWidth;
 Console.WriteLine(tableWidth);
 Console.WriteLine(tableHeight);
-Console.ReadLine(chairWidth);
+
